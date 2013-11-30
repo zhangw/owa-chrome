@@ -9,3 +9,6 @@ Makes life easier for those whose company is using Microsoft Exchange Server as 
 The development of this extension has ceased, since I don't use any Microsoft Exchange service right now.
 
 Can somebody help me with this extension's further development?
+
+# TODO #
+I wanna make it works in my chrome used to wedo exchange service.
